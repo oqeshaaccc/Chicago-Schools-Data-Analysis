@@ -9,6 +9,9 @@
  * Data set: https://data.cityofchicago.org/Education/Chicago-Public-Schools-Progress-Report-Cards-2011-/9xs2-f89t?utm_medium=Exinfluencer&utm_source=Exinfluencer&utm_content=000026UJ&utm_term=10006555&utm_id=NA-SkillsNetwork-Channel-SkillsNetworkCoursesIBMDeveloperSkillsNetworkDB0201ENSkillsNetwork22-2022-01-01&cm_mmc=Email_Newsletter-_-Developer_Ed%2BTech-_-WW_WW-_-SkillsNetwork-Courses-IBMDeveloperSkillsNetwork-DB0201EN-SkillsNetwork-20127838&cm_mmca1=000026UJ&cm_mmca2=10006555&cm_mmca3=M12345678&cvosrc=email.Newsletter.M12345678&cvo_campaign=000026UJ
  
  * also available as an attached csv file named: ChicagoPublicSchools.csv
+ * FinalAssignmentNoteBookOFChicagoSchoolsAsHTMLImage is an image of the project
+ * tableSchoolColumnNames.txt has the names of the columns of the SCHOOLS Table
+
  __________________________________________________________________________________________________________
  
  * Steps Taken to accomplish this project
@@ -35,5 +38,5 @@ where CD.ca = CPS.community_area_number \
    where ca in \
    ( select community_area_number from schools order by college_enrollment desc limit 1 )) to Get the hardship index for the community area which has the school with the highest enrollment
   
-  
+  _______________________________________________________________________________________________________________________________________________________
   
