@@ -15,6 +15,7 @@
  __________________________________________________________________________________________________________
  
  * Steps Taken to accomplish this project
+ __________________________________________________________________________________________________________
  * 1- Downloaded ChicagoPublicSchools.csv
  * 2- Loaded data into IBM database DB2
  * 3- Connected to database with python jupiter notbook
