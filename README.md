@@ -1,4 +1,4 @@
-# Practice-Querying-Real-World-Datasets
+# Chicago Schools Data Analysis
   *Objectives
   ___________________________________________________________________________________________
   * Understand the dataset for Chicago Public School level performance
